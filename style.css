@@ -1,6 +1,6 @@
-*{
-    /* outline: 1px solid red;*/
-}
+/**{
+     outline: 1px solid red;
+}*/
 header{
     position: fixed;
     margin-block: 0px;
@@ -40,6 +40,7 @@ h6{
     height: 500px;
     margin-top: 150px;
     margin-left: 95px;
+    
 }
 .imagendefondo1{
     background-image: url(./imagenes/fondo.png);
@@ -68,6 +69,7 @@ h6{
 }
 .boton{
     padding-left: 110px;
+    padding-bottom: 30px;
 }
 footer{
     background-color: #00669F;
@@ -124,4 +126,7 @@ padding-left: 15px;
     background-repeat: no-repeat;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
+}
+.descripcion1{
+    box-shadow: 0px 7px grey;
 }
