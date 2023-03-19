@@ -1,0 +1,127 @@
+*{
+    outline: 1px solid red;
+}
+header{
+    position: fixed;
+    margin-block: 0px;
+    margin: 0px;
+    height: auto;
+    width: 1600px;
+}
+
+.descuentos{
+    background-color: #1CD1B0 ;
+    padding: 20px;
+    margin-top: 0%;
+    height: 10px;
+    
+    
+}
+
+.heroes{
+    background-color:#00669F ;
+    box-shadow: 10px 5px 5px black;
+    
+    
+}
+
+h1{
+    margin: 0px;
+    padding: 20px;
+}
+
+h6{
+    padding-top: 0px ;
+    height: 20px;
+    margin-top: 0px;
+}
+.ficha1, .ficha2{
+    width: 300px;
+    height: 500px;
+    margin-top: 150px;
+    margin-left: 95px;
+}
+.imagendefondo1{
+    background-image: url(./imagenes/fondo.png);
+    height: 190px;
+    width: 300px;
+    background-repeat: no-repeat;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+.fotosuperheroe{
+    background-image: url(./imagenes/batman.png);
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    margin-left: 90px;
+    background-repeat: no-repeat;
+    margin-top: -60px;
+}
+.batman{
+    text-align-last: center;
+}
+.dbatman{
+    padding: 20px;
+    font-family:sans-serif;
+}
+.boton{
+    padding-left: 110px;
+}
+footer{
+    background-color: #00669F;
+    margin-top: 300px;
+    padding: 20px;
+}
+h5{
+    
+    font-style: oblique;
+    color: white;
+    text-shadow: 2px;
+}
+.contenedor{
+    display: flex;
+    
+    
+}
+.bi{
+color: darkred;
+padding-top: 15px;
+padding-left: 15px;
+}
+.imagendefondo2{
+    background-image: url(./imagenes/fondoharl.png);
+    height: 190px;
+    width: 300px;
+    background-repeat: no-repeat;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+.fotosuperheroe2{
+    background-image: url(./imagenes/harley.png);
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    margin-left: 90px;
+    background-repeat: no-repeat;
+    margin-top: -60px;
+}
+.fotosuperheroe3{
+    background-image: url(./imagenes/ironman5.png);
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    margin-left: 90px;
+    background-repeat: no-repeat;
+    margin-top: -60px;
+}
+.imagendefondo3{
+    background-image: url(./imagenes/edificio1.png);
+    height: 190px;
+    width: 300px;
+    background-repeat: no-repeat;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
